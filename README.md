@@ -1,9 +1,11 @@
 # datavisualization
 
 ## Dot Density Map animation
+Densitat d'apartaments turistics **legals** donats d'alta fins l'actualitat a valència. Animació feta amb QGIS amb les dades obertes de la generalitat valenciana (https://portaldadesobertes.gva.es/es). 
 https://github.com/carlesmateu/datavisualization/assets/167996204/c6f8134d-8b17-4400-8426-f1e531e56084
 
 ## Beeswarm Plot
+Beeswarmp plot del índex SHAP (SHapley Additive exPlanations) per a un model customitzat Random Forest per a la mortalitat de la COVID durant els anys de la pandèmia (2020-2023) 
 Legend: 
     EOSPER -> Eosinòfils (percentatge)
     NEUPTER -> Neutròfils (percentatge)
