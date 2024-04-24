@@ -10,6 +10,7 @@ https://github.com/carlesmateu/datavisualization/assets/167996204/a9169201-ee29-
 
 ## Beeswarm Plot
 Beeswarmp plot del índex SHAP (SHapley Additive exPlanations) per a un model customitzat Random Forest per a la mortalitat de la COVID durant els anys de la pandèmia (2020-2023) 
+Font: dades pròpies.
 Legend: 
     EOSPER -> Eosinòfils (percentatge)
     NEUPTER -> Neutròfils (percentatge)
@@ -30,4 +31,6 @@ Legend:
 
 
 ## Icon Chart
-![snapshot-1713969048462](https://github.com/carlesmateu/datavisualization/assets/167996204/70541fe9-4348-4ad7-af82-931cb766033f)
+Icon chart que descriu el consum energètic a Espanya durant l'any 2022. Font: https://www.iea.org/countries/spain
+![snapshot-1713969780801](https://github.com/carlesmateu/datavisualization/assets/167996204/43ea4b4d-6bf4-4dba-9f30-2ddef33a570f)
+
